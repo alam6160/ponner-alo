@@ -1,0 +1,13 @@
+.fp-message {
+    color:#119744;
+    font-weight:bold;
+    margin-top: -1.5rem;
+    margin-bottom:1rem;
+}
+
+.bp-message {
+    color:#4B49AC;
+    font-weight:bold;
+    margin-top:0.5rem;
+    margin-bottom:1rem;
+}
